@@ -1,0 +1,2 @@
+# premium-idp-self-serve-001-self-service-infrastructure-te
+Your developers are drowning in Slack messages asking 'How do I provision this?' and 'Where's the documentation?' The Self-Service Infrastructure Template solves this by centralizing every infrastructure request, resource, and approval workflow in one place your team actually uses: Notion.  Stop context-switching between tools and tribal knowledge.
